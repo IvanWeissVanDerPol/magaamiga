@@ -19,42 +19,65 @@
 
 ## Concepto Creativo
 
-### Idea Visual Principal
+### ⚠️ VERSIÓN MEJORADA (Crítica aplicada)
 
-**Contraste Radical: Caja Cerrada vs Frescura Abierta**
+**CAMBIOS CLAVE:**
+1. ✅ "Ver es creer" → **"TODO A LA VISTA"** (más ownable, menos cliché)
+2. ✅ Eliminar "Ellos esconden..." (muy reactivo/defensivo)
+3. ✅ Convertir transparencia en empoderamiento del cliente
+4. ✅ Agregar ritual/momento específico de interacción
 
-**Pieza 1: Ingredientes Expuestos**
+### Idea Visual Principal - MEJORADA
+
+**Pieza 1: Todo a la Vista**
 ```
-VER ES CREER
+TODO A LA VISTA.
 
-En Subway, conocés lo que comés antes de comerlo.
-Ingredientes frescos. Visibles. Siempre.
+Ves cada ingrediente.
+Ves cómo lo preparan.
+Ves exactamente qué comés.
+
+Subway. Frescura sin esconder.
 ```
 
 Visual: Close-up macro de ingredientes frescos detrás del vidrio. Lechuga crujiente con gotas de agua, tomate jugoso recién cortado, proteínas apetitosas. Colores vibrantes, frescura palpable.
 
-**Pieza 2: Contraste**
+**Pieza 2: El Ritual Subway (NUEVO - REEMPLAZA "Ellos esconden")**
 ```
-ELLOS ESCONDEN.
-NOSOTROS MOSTRAMOS.
+DECÍ "MÁS TOMATE".
+DECÍ "DOBLE QUESO".
+DECÍ LO QUE QUIERAS.
 
-Frescura sin secretos.
-Subway.
+En Subway, vos ves. Vos decidís.
+
+Todo a la vista. Todo a tu gusto.
 ```
 
-Visual: Split screen - Izquierda: silueta de caja de hamburguesa cerrada (sin marca, genérica). Derecha: Subway abierto, todos los ingredientes visibles en su gloria.
+Visual: Cliente señalando ingredientes, sandwich artist sonriendo preparando. Momento de interacción real, empoderamiento visible. NO mostrar competencia.
 
-**Pieza 3: Preparación Transparente**
+**Pieza 3: LO QUE VES ES LO QUE COMÉS (MEJORADA)**
 ```
-TU SUB, FRENTE A TUS OJOS
+LO QUE VES ES LO QUE COMÉS.
 
-Ves cómo lo armamos.
-Sabés que es fresco.
+Sin sorpresas. Sin misterios.
+Solo ingredientes frescos frente a tus ojos.
 
-Subway. Transparencia que se come.
+Subway. La verdad se come.
 ```
 
 Visual: Secuencia de preparación (3 pasos visibles): 1) Mano eligiendo pan recién horneado, 2) Ingredientes siendo colocados, 3) Sub terminado perfecto.
+
+### Variación Alternativa: Sin Secretos. Solo Sabor.
+
+**Para contexto más competitivo:**
+```
+SIN SECRETOS. SOLO SABOR.
+
+Ves cada ingrediente antes de que entre a tu sub.
+Ves cómo lo preparan frente a vos.
+
+Subway. Frescura que se ve y se prueba.
+```
 
 ---
 
@@ -289,11 +312,24 @@ Copy: "Frescura en alta definición. Subway."
 
 ---
 
-**Recomendación**: ⭐⭐⭐⭐⭐ (9/10)
+**Recomendación ORIGINAL**: ⭐⭐⭐⭐⭐ (9/10)
+**Recomendación MEJORADA**: ⭐⭐⭐⭐⭐ (9.5/10)
 
-**Por qué**: Diferenciador único, visualmente impactante, genera confianza. Ideal para posicionar Subway como opción transparente y fresca vs competencia oculta.
+**Por qué mejoró**:
+- ✅ "TODO A LA VISTA" es más ownable que el cliché "Ver es creer"
+- ✅ Eliminado mensaje defensivo "Ellos esconden..." - ahora celebra Subway sin atacar
+- ✅ Nueva pieza "El Ritual Subway" convierte transparencia en EMPODERAMIENTO
+- ✅ Tagline "La verdad se come" es más memorable y específico de comida
+- ✅ Conecta mejor con target joven (lenguaje directo, vos decidís)
+
+**Cambios aplicados:**
+- ✅ Copy principal más ownable y menos genérico
+- ✅ Eliminada comparación directa con competencia
+- ✅ Añadido momento específico de interacción (ritual)
+- ✅ Celebración vs justificación
 
 ---
 
 **Creado**: Noviembre 2025
+**Mejorado**: Noviembre 2025 (Post-análisis crítico)
 **Proyecto**: Campaña Subway Jóvenes Talentos

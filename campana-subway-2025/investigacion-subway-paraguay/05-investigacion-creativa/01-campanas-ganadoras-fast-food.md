@@ -1,13 +1,13 @@
-# Campa√±as Ganadoras Fast Food - Referentes Creativos
+# CampaÒas Ganadoras Fast Food - Referentes Creativos
 
 ## Referencias de premios internacionales
 
-### Cannes Lions - Fast Food (√∫ltimos 3 a√±os)
+### Cannes Lions - Fast Food (˙ltimos 3 aÒos)
 
 #### McDonald's - "Raise Your Arches"
 **Premio**: Grand Prix Outdoor 2023
 **Concepto**: Minimalismo extremo - los arcos dorados como gesto universal de "quiero McDonald's"
-**Por qu√© funciona**:
+**Por quÈ funciona**:
 - Simplicidad visual absoluta
 - Insight cultural: el gesto de levantar las cejas cuando ves comida que te gusta
 - Adaptable a cualquier medio
@@ -19,21 +19,21 @@ El producto/logo puede ser protagonista absoluto sin necesidad de copy extenso.
 
 #### Burger King - "Moldy Whopper"
 **Premio**: Grand Prix Creative Effectiveness 2020
-**Concepto**: Mostrar una Whopper pudri√©ndose durante 34 d√≠as
-**Por qu√© funciona**:
-- Valent√≠a extrema
+**Concepto**: Mostrar una Whopper pudriÈndose durante 34 dÌas
+**Por quÈ funciona**:
+- ValentÌa extrema
 - Mensaje claro: sin conservantes
-- Gener√≥ conversaci√≥n masiva
+- GenerÛ conversaciÛn masiva
 
 **Aprendizaje para Subway**:
-La transparencia radical puede ser diferenciador. Subway ya muestra ingredientes frescos - podr√≠amos ser m√°s atrevidos con esto.
+La transparencia radical puede ser diferenciador. Subway ya muestra ingredientes frescos - podrÌamos ser m·s atrevidos con esto.
 
 ---
 
 #### KFC - "FCK Apology"
 **Premio**: Multiple Golds Cannes 2019
 **Concepto**: Pedir disculpas por quedarse sin pollo reorganizando las letras del logo
-**Por qu√© funciona**:
+**Por quÈ funciona**:
 - Honestidad con humor
 - Timing perfecto (crisis management)
 - Simple pero memorable
@@ -43,46 +43,46 @@ El tono puede ser humano y cercano, no corporativo.
 
 ---
 
-### El Ojo de Iberoam√©rica - Fast Food
+### El Ojo de IberoamÈrica - Fast Food
 
 #### Mostaza (Argentina) - "El precio justo es ahora"
-**Premio**: Oro en Campa√±as Integradas 2022
-**Concepto**: Combatir inflaci√≥n con transparencia de precios
-**Por qu√© funciona**:
-- Insight local potente (inflaci√≥n Argentina)
-- Beneficio claro y cre√≠ble
-- Conexi√≥n emocional con crisis econ√≥mica
+**Premio**: Oro en CampaÒas Integradas 2022
+**Concepto**: Combatir inflaciÛn con transparencia de precios
+**Por quÈ funciona**:
+- Insight local potente (inflaciÛn Argentina)
+- Beneficio claro y creÌble
+- ConexiÛn emocional con crisis econÛmica
 
 **Aprendizaje para Subway**:
-Hablar del contexto econ√≥mico local (Paraguay) puede generar conexi√≥n.
+Hablar del contexto econÛmico local (Paraguay) puede generar conexiÛn.
 
 ---
 
-#### Papa John's (M√©xico) - "Better Ingredients, Better Pizza"
+#### Papa John's (MÈxico) - "Better Ingredients, Better Pizza"
 **Premio**: Plata Digital 2023
 **Concepto**: Mostrar el origen de cada ingrediente con trazabilidad
-**Por qu√© funciona**:
-- Transparencia y tecnolog√≠a
-- Producto como h√©roe
-- Diferenciaci√≥n vs competencia
+**Por quÈ funciona**:
+- Transparencia y tecnologÌa
+- Producto como hÈroe
+- DiferenciaciÛn vs competencia
 
 **Aprendizaje para Subway**:
-Subway ya tiene "frescura visible" - podr√≠amos llevar la trazabilidad al siguiente nivel.
+Subway ya tiene "frescura visible" - podrÌamos llevar la trazabilidad al siguiente nivel.
 
 ---
 
-## Campa√±as Virales Recientes (No premiadas pero efectivas)
+## CampaÒas Virales Recientes (No premiadas pero efectivas)
 
 ### Chipotle - "Lid Flip Challenge"
 **Plataforma**: TikTok
-**Concepto**: Desaf√≠o de cerrar el bowl con un movimiento de mu√±eca
+**Concepto**: DesafÌo de cerrar el bowl con un movimiento de muÒeca
 **Resultados**:
 - 230M+ visualizaciones
 - UGC masivo
-- 0 inversi√≥n en medios
+- 0 inversiÛn en medios
 
 **Aprendizaje para Subway**:
-Los desaf√≠os pueden viralizarse con mec√°nica simple. ¬øQu√© tiene Subway que se pueda hacer challenge? (armar sandwich perfecto, footlong cookie challenge, etc.)
+Los desafÌos pueden viralizarse con mec·nica simple. øQuÈ tiene Subway que se pueda hacer challenge? (armar sandwich perfecto, footlong cookie challenge, etc.)
 
 ---
 
@@ -94,92 +94,92 @@ Los desaf√≠os pueden viralizarse con mec√°nica simple. ¬øQu√© tiene Subway que s
 - Brand love aumentado
 
 **Aprendizaje para Subway**:
-Las acciones generosas generan prensa. ¬øQu√© podr√≠a "liberar" Subway?
+Las acciones generosas generan prensa. øQuÈ podrÌa "liberar" Subway?
 
 ---
 
 ### Wendy's - Twitter Roasts
-**Concepto**: Cuenta de Twitter que "insulta" humor√≠sticamente a usuarios y competencia
+**Concepto**: Cuenta de Twitter que "insulta" humorÌsticamente a usuarios y competencia
 **Impacto**:
 - 3.8M seguidores
 - Engagement rate 5x superior a promedio de industria
-- Personalidad de marca √∫nica
+- Personalidad de marca ˙nica
 
 **Aprendizaje para Subway**:
 El tono de voz distintivo en redes puede ser el diferenciador (sin necesidad de insultar).
 
 ---
 
-## Patrones de √âxito Identificados
+## Patrones de …xito Identificados
 
-### 1. Producto como H√©roe
-Las campa√±as ganadoras ponen el producto en primer plano:
-- Fotograf√≠a irresistible
+### 1. Producto como HÈroe
+Las campaÒas ganadoras ponen el producto en primer plano:
+- FotografÌa irresistible
 - Ingredientes visibles
-- Preparaci√≥n mostrada
+- PreparaciÛn mostrada
 
 **Oportunidad Subway**: Ya tenemos ventaja con el mostrador visible.
 
 ### 2. Simplicidad Visual
-Menos es m√°s en medios saturados:
+Menos es m·s en medios saturados:
 - Una idea por pieza
-- Copy m√≠nimo
+- Copy mÌnimo
 - Visual potente
 
 **Oportunidad Subway**: Footlong, cookies, ingredientes coloridos son visuales fuertes.
 
 ### 3. Insight Cultural Local
-Las campa√±as conectan con contexto espec√≠fico:
-- Crisis econ√≥mica
+Las campaÒas conectan con contexto especÌfico:
+- Crisis econÛmica
 - Comportamientos locales
 - Lenguaje local
 
 **Oportunidad Subway**: Hablar como paraguayos, entender su realidad.
 
-### 4. Valent√≠a Creativa
+### 4. ValentÌa Creativa
 Las ganadoras se arriesgan:
 - Humor inteligente
 - Transparencia radical
 - Formatos disruptivos
 
-**Oportunidad Subway**: Ser m√°s atrevidos con la frescura (ej: "Moldy Whopper" pero versi√≥n Subway).
+**Oportunidad Subway**: Ser m·s atrevidos con la frescura (ej: "Moldy Whopper" pero versiÛn Subway).
 
 ---
 
-## Aplicaci√≥n Pr√°ctica para Campa√±a Subway
+## AplicaciÛn Pr·ctica para CampaÒa Subway
 
-### Qu√© S√ç hacer:
+### QuÈ SÕ hacer:
 1. **Producto protagonista absoluto** - Subway Series, cookies, ingredientes
 2. **Simplicidad visual** - Una idea fuerte por pieza
-3. **Tono paraguayo** - No gen√©rico, espec√≠fico
-4. **Frescura como arma** - Ser radicales con esto (es nuestro diferencial √∫nico)
-5. **Potencial viral** - Pensar en qu√© puede compartirse
+3. **Tono paraguayo** - No genÈrico, especÌfico
+4. **Frescura como arma** - Ser radicales con esto (es nuestro diferencial ˙nico)
+5. **Potencial viral** - Pensar en quÈ puede compartirse
 
-### Qu√© NO hacer:
+### QuÈ NO hacer:
 1. **Copy extenso** - Las ganadoras son visuales
 2. **Tono corporativo** - Hablar como humanos
-3. **Promesas gen√©ricas** - Todos dicen "rico y fresco"
+3. **Promesas genÈricas** - Todos dicen "rico y fresco"
 4. **Ignorar contexto local** - Paraguay tiene identidad propia
 5. **Jugar seguro** - Las ganadoras se arriesgan
 
 ---
 
-## Ideas Espec√≠ficas Inspiradas en Ganadoras
+## Ideas EspecÌficas Inspiradas en Ganadoras
 
 ### Inspirada en "Moldy Whopper"
 **"48 horas"**: Time-lapse de ingredientes Subway vs competencia
 - Subway: sigue fresco
 - Competencia: se deteriora
-- Valent√≠a con transparencia
+- ValentÌa con transparencia
 
 ### Inspirada en "Raise Your Arches"
 **"El gesto"**: Minimalismo visual con manos armando sandwich
 - Solo manos + ingredientes
 - Sin logo hasta el final
-- Reconocible por acci√≥n
+- Reconocible por acciÛn
 
 ### Inspirada en Chipotle Lid Flip
-**"Subway Wrapped"**: Challenge de mostrar tu combinaci√≥n del a√±o
+**"Subway Wrapped"**: Challenge de mostrar tu combinaciÛn del aÒo
 - UGC masivo
 - Spotify Wrapped pero con sandwiches
 - Viral en TikTok/Instagram
@@ -189,13 +189,13 @@ Las ganadoras se arriesgan:
 ## Fuentes y Referencias
 
 - Cannes Lions Archive 2020-2024
-- El Ojo de Iberoam√©rica 2022-2024
+- El Ojo de IberoamÈrica 2022-2024
 - AdAge Creativity Awards
 - The Drum Awards
-- An√°lisis de campa√±as virales TikTok/Instagram 2024
+- An·lisis de campaÒas virales TikTok/Instagram 2024
 
 ---
 
-**√öltima actualizaci√≥n**: Enero 2025
-**Categor√≠a**: Investigaci√≥n Creativa
-**Uso**: Inspiraci√≥n para campa√±a Subway J√≥venes Talentos
+**⁄ltima actualizaciÛn**: Enero 2025
+**CategorÌa**: InvestigaciÛn Creativa
+**Uso**: InspiraciÛn para campaÒa Subway JÛvenes Talentos

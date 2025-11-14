@@ -24,34 +24,40 @@
 
 ## Concepto Creativo
 
+### ⚠️ VERSIÓN MEJORADA (Crítica aplicada)
+
+**CAMBIOS CLAVE:**
+1. ✅ Sub protagonista absoluto (80% visual, 20% copy)
+2. ✅ Humanizar "ciencia" → "12 chefs perfeccionaron"
+3. ✅ Agregar cierre emocional → "Pedí con confianza. Comé feliz."
+4. ✅ Reducir ecuaciones complejas
+
 ### Idea Visual Principal
 
-**Ecuación Simple del Sabor**
-
-**Pieza 1: The MexiCali (#7)**
+**Pieza 1: The MexiCali (#7) - MEJORADA**
 ```
-FÓRMULA PERFECTA:
-Pollo + Pimientos + Jalapeños + Queso + Chipotle Southwest =
-SABOR GARANTIZADO
+NO ES SUERTE. ES CIENCIA.
 
-No es suerte. Es ciencia.
-Subway Series #7
-```
+12 chefs perfeccionaron estas recetas.
+Vos solo elegís un número.
 
-Visual: The MexiCali en primer plano, apetitoso, con cada ingrediente visible en capas. Ecuación simple sobrepuesta en tipografía limpia.
-
-**Pieza 2: The Philly (#1)**
-```
-1 + 1 NUNCA FUE TAN DELICIOSO
-
-Carne + Queso Fundido + Pimientos + Pan Recién Horneado =
-EL SUB PERFECTO
-
-No es suerte. Es ciencia.
-Subway Series #1
+#7: The MexiCali
+Pedí con confianza. Comé feliz.
 ```
 
-Visual: Close-up del queso fundido derramándose, carne jugosa, pimientos vibrantes. Composición apetitosa.
+Visual: **SUB GIGANTE Y APETITOSO (protagonista absoluto)**. The MexiCali ocupando 80% del espacio, close-up dramático con ingredientes en capas visibles, gotas de salsa, textura perfecta. Copy mínimo al pie.
+
+**Pieza 2: The Philly (#1) - MEJORADA**
+```
+OLVIDATE DE LA SUERTE.
+
+12 subs perfectos. Cero errores posibles.
+
+#1: The Philly
+Subway Series. Di un número. Acertá siempre.
+```
+
+Visual: **QUESO FUNDIDO DERRAMÁNDOSE en primer plano dramático**. Carne jugosa, pimientos vibrantes. 90% apetito visual, 10% copy.
 
 **Pieza 3: Los 12 Números**
 ```
@@ -341,12 +347,20 @@ Visual: Grid de los 12 subs (pequeños) con sus números destacados. Diseño lim
 
 ---
 
-**Recomendación**: ⭐⭐⭐⭐⭐ (9/10)
+**Recomendación ORIGINAL**: ⭐⭐⭐⭐⭐ (9/10)
+**Recomendación MEJORADA**: ⭐⭐⭐⭐⭐ (9.5/10)
 
-**Por qué**: Resuelve directamente el problema central del brief, es visualmente fuerte, adaptable y memorable. Podría ser LA campaña de lanzamiento de Subway Series en Paraguay.
+**Por qué mejoró**: Con las mejoras aplicadas, el concepto mantiene su fortaleza estratégica pero elimina los riesgos de sonar demasiado racional. Ahora el **sub es protagonista absoluto** (no la ecuación), el lenguaje es más humano ("12 chefs perfeccionaron" vs "fórmula") y cierra con emoción ("Pedí con confianza. Comé feliz.").
+
+**Cambios aplicados:**
+- ✅ Jerarquía visual invertida: 80% sub, 20% copy
+- ✅ Copy más emocional y menos académico
+- ✅ Cierre con beneficio emocional claro
+- ✅ Variante agresiva añadida: "Olvidate de la suerte"
 
 ---
 
 **Creado**: Noviembre 2025
+**Mejorado**: Noviembre 2025 (Post-análisis crítico)
 **Proyecto**: Campaña Subway Jóvenes Talentos
 **Tipo**: Concepto print + 360
